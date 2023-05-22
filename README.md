@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
