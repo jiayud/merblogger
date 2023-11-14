@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Retry once for Docker CI failures (#8164)
