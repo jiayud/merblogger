@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Modify tuner best.pt logic to train first (#8792)
