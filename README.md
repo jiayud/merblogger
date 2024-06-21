@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Compress docs images (#8124)
